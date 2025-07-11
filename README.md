@@ -6,7 +6,7 @@ Desafio04 curso em video
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio Curso</title>
+    <title>Meus Emojis Favoritos</title>
 </head>
 <body>
     <h1>Desafio dos Emojis</h1>
