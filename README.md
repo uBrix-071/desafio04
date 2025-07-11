@@ -6,10 +6,10 @@ Desafio04 curso em video
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meus Emojis Favoritos</title>
+    <title>Desfio dos Emojis</title>
 </head>
 <body>
-    <h1>Desafio dos Emojis</h1>
+    <h1>Meus Emojis Favoritos</h1>
     <h2>Carinhas</h2>
     <ul>
         <li>&#x1F60E; Código U + 1F60E</li>
